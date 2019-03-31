@@ -5,4 +5,4 @@
 
 ## YouTube Video: Speed Coding Demo
 
-[Youtube](https://www.youtube.com/watch?v=oYixSXNMdSw&t=99s)
+[Youtube](https://www.youtube.com/watch?v=oYixSXNMdSw&t=99s) | [Live Demo](https://creativelab.co.zw/projects/card-demo)
